@@ -1,1 +1,1 @@
-# GetAwayFromGoogle.github.io
+# GetAwayFromGoogle website
